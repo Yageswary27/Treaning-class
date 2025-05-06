@@ -1,1 +1,1 @@
-# CosmeticMart
+# Training Academy
